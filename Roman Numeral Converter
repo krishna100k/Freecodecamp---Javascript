@@ -18,6 +18,8 @@ function convertToRoman(numToConvert) {
   return result;
 }
 
+convertToRoman(36);
+
 convertToRoman(52); // LII
 convertToRoman(1120); // MCXX
 convertToRoman(09); // IX
